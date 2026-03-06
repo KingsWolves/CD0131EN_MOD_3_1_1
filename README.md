@@ -1,5 +1,6 @@
-# LogisticsShippingRates
-IBM CD0131EN: Git and GitHub Basics
+# IBM CD0131EN: Git and GitHub Basics
+
+LogisticsShippingRates
 
 Please consider the below factors while contributing
 Code Style:
